@@ -1,0 +1,16 @@
+
+
+            [
+                { "picture":"./pictures/anillo1.jpg", "referencia": 1, "material": "Oro Rubi", "numero": 1, "valor": 1500 },
+                { "picture":"./pictures/anillo2.jpg", "referencia": 2, "material": "Oro Rubi", "numero": 1, "valor": 3500 },
+                { "picture":"./pictures/anillo3.jpg", "referencia": 3, "material": "Oro Rubi", "numero": 1, "valor": 2500 },
+                { "picture":"./pictures/anillo4.jpg", "referencia": 4, "material": "Oro Rubi", "numero": 1, "valor": 1800 },
+                { "picture":"./pictures/anillo5.jpg", "referencia": 5, "material": "Oro Rubi", "numero": 1, "valor": 2000 },
+                { "picture":"./pictures/anillo6.jpg", "referencia": 6, "material": "Oro Rubi", "numero": 1, "valor": 3000 },
+                { "picture":"./pictures/anillo7.jpg", "referencia": 7, "material": "Oro Rubi", "numero": 1, "valor": 2750 },
+                { "picture":"./pictures/anillo8.jpg", "referencia": 8, "material": "Oro Rubi", "numero": 1, "valor": 2700 },
+                { "picture":"./pictures/anillo9.jpg", "referencia": 9, "material": "Oro Rubi", "numero": 1, "valor": 3700 },
+                { "picture":"./pictures/anillo10.jpg", "referencia": 10, "material": "Oro Rubi", "numero": 1, "valor": 3200 },
+                { "picture":"./pictures/anillo11.jpg", "referencia": 11, "material": "Oro Rubi", "numero": 1, "valor": 3000 },
+                { "picture":"./pictures/anillo12.jpg", "referencia": 12, "material": "Oro Rubi", "numero": 1, "valor": 1980 }
+            ]
